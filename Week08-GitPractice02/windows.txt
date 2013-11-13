@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2E4D-B246
+
+ Directory of C:\Users\hector.fonseca\Documents\GitHub\Prog270-Fonseca\Week08-GitPractice02
+
+11/12/2013  05:47 PM                 0 Test01.md.txt
+11/12/2013  05:48 PM                 0 Test02.md.txt
+11/12/2013  06:30 PM    <DIR>          images
+11/12/2013  06:31 PM    <DIR>          ..
+11/12/2013  06:31 PM                 0 windows.txt
+11/12/2013  06:31 PM    <DIR>          .
+               3 File(s)              0 bytes
+               3 Dir(s)  139,755,188,224 bytes free
